@@ -1,4 +1,4 @@
-# Burp Suite Certified Practitioner (BSCP)
+# Burp Suite Certified Practitioner (BSCP) | Exam Guidance
 
 This repository contains curated resources and guidance to assist you during your Burp Suite Certified Practitioner (BSCP) exam and successfully passing the certification.
 
