@@ -10,11 +10,3 @@ Resource: Https://Hacking-POC.com/bscp
 
 This repository draws inspiration and resources from https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study.
 Special thanks to Juan Botes for creating a comprehensive study guide that served as a foundation for this project.
-
----
-
-If you have any questions, suggestions, or issues regarding the roadmap or this repository, feel free to open an issue or reach out to me via Discord.
-
-  <a href="https://discord.com">
-  <img width="300" src="https://github.com/Hacking-Notes/Hacking-Notes/assets/118412415/5f34c47e-8f9e-40ef-885d-91ee9a6c5989" alt="gif">
-  </a>
